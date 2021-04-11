@@ -3,4 +3,5 @@ My random python programs
 
 ### List of programs
 
-1. Triangular number generator
+#### Triangular number generator
+Generates a list of triangular numbers.
